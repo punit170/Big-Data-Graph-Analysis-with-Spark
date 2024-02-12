@@ -1,0 +1,19 @@
+{
+  'Correct matches (True Positive):': '94',
+  'Number of total distinct successful walks:': '139',
+  'Incorrect matches (False positive):': '3',
+  'Perturbed nodes not covered by random walks:': 'List(20, 44, 54, 66, 83, 85, 119,
+    121, 124)',
+  'Number of distinct successful walks per part:': 'List(32, 1, 0, 1, 0, 0, 32, 0,
+    1, 1, 1, 1, 1, 35, 0, 1, 1, 1, 1, 29)',
+  'Number of total distinct unsuccessful walks:': '22',
+  'Original valuable data nodes:': 'List(1, 2, 6, 7, 8, 9, 10, 11, 14, 15, 16, 18,
+    20, 23, 24, 27, 28, 29, 30, 31, 35, 36, 37, 39, 42, 44, 45, 48, 49, 51, 52, 54,
+    60, 61, 63, 64, 65, 66, 67, 68, 69, 70, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82,
+    83, 84, 85, 87, 89, 90, 92, 95, 97, 98, 101, 104, 106, 107, 110, 114, 115, 119,
+    120, 121, 123, 124, 126, 127, 132, 133, 134, 135, 140, 142, 146, 147, 154, 157,
+    159, 165, 166, 167, 171, 172, 175, 179, 180, 184, 188, 189, 191, 193, 196, 199,
+    0)',
+  'Number of distinct unsuccessful walks per part:': 'List(6, 0, 0, 0, 0, 0, 6, 0,
+    0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 4)'
+}

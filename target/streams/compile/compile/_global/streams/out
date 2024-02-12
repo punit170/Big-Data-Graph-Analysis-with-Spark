@@ -1,0 +1,7 @@
+[0m[[0m[33mwarn[0m] [0m[0mC:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\src\main\scala\Main.scala:134:31: non-variable type argument NetGraphAlgebraDefs.NodeObject in type pattern scala.collection.immutable.Map[NetGraphAlgebraDefs.NodeObject,(NetGraphAlgebraDefs.NodeObject, Float)] is unchecked since it is eliminated by erasure[0m
+[0m[[0m[33mwarn[0m] [0m[0m            case r: immutable.Map[NodeObject, (NodeObject, Float)] =>[0m
+[0m[[0m[33mwarn[0m] [0m[0m                              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\src\main\scala\HelperFunction.scala:250:43: method apply in object BigDecimal is deprecated (since 2.11.0): The default conversion from Float may not do what you want. Use BigDecimal.decimal for a String representation, or explicitly convert the Float with .toDouble.[0m
+[0m[[0m[33mwarn[0m] [0m[0m                  SRMap((pNode, nNode)) = BigDecimal(coeffPart * sumPart).setScale(2, BigDecimal.RoundingMode.HALF_UP).toFloat[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m

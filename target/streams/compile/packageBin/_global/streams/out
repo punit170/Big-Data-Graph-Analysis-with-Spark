@@ -1,0 +1,47 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\mitmstatsim_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mitm[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\mitm[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mitm\HelperFunction$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\mitm\HelperFunction$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mitm\HelperFunction$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\mitm\HelperFunction$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mitm\HelperFunction$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\mitm\HelperFunction$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mitm\HelperFunction$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\mitm\HelperFunction$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mitm\HelperFunction$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\mitm\HelperFunction$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mitm\HelperFunction$NetGraph$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\mitm\HelperFunction$NetGraph$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mitm\HelperFunction$NetGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\mitm\HelperFunction$NetGraph.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mitm\HelperFunction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\mitm\HelperFunction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mitm\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\mitm\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mitm\Main$MapAccumulator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\mitm\Main$MapAccumulator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mitm\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\mitm\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NetGraphAlgebraDefs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\NetGraphAlgebraDefs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NetGraphAlgebraDefs\Action$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\NetGraphAlgebraDefs\Action$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NetGraphAlgebraDefs\Action.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\NetGraphAlgebraDefs\Action.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NetGraphAlgebraDefs\NetGraphComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\NetGraphAlgebraDefs\NetGraphComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NetGraphAlgebraDefs\NodeObject$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\NetGraphAlgebraDefs\NodeObject$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NetGraphAlgebraDefs\NodeObject.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\NetGraphAlgebraDefs\NodeObject.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NetGraphAlgebraDefs\TerminalAction$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\NetGraphAlgebraDefs\TerminalAction$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NetGraphAlgebraDefs\TerminalAction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\NetGraphAlgebraDefs\TerminalAction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NetGraphAlgebraDefs\TerminalNode$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\NetGraphAlgebraDefs\TerminalNode$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NetGraphAlgebraDefs\TerminalNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\target\scala-2.12\classes\NetGraphAlgebraDefs\TerminalNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\Utilities\target\scala-2.12\utilities_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\Utilities\target\scala-2.12\classes\application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\Utilities\target\scala-2.12\classes\logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LoggingUtil[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\Utilities\target\scala-2.12\classes\LoggingUtil[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LoggingUtil\GraphUtil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\Utilities\target\scala-2.12\classes\LoggingUtil\GraphUtil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LoggingUtil\GraphUtil$CreateLogger$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\Utilities\target\scala-2.12\classes\LoggingUtil\GraphUtil$CreateLogger$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LoggingUtil\GraphUtil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\Utilities\target\scala-2.12\classes\LoggingUtil\GraphUtil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Variables[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\Utilities\target\scala-2.12\classes\Variables[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Variables\GraphConfigReader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\Utilities\target\scala-2.12\classes\Variables\GraphConfigReader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Variables\GraphConfigReader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\UIC EDUCATION\SEM 3\CS441\github\Big-Data-Graph-Analysis-with-Spark\Utilities\target\scala-2.12\classes\Variables\GraphConfigReader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

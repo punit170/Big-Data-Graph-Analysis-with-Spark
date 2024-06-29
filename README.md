@@ -186,3 +186,8 @@ The following errors may occur during execution:
 
 
 ## YouTube link: <ins>[Project Demonstration + spark-submit](https://youtu.be/2-S-70iQDiM)</ins>
+
+## Need Help?
+
+Reach out to me!
+**Email:** [punit.malpani@gmail.com](mailto:punit.malpani@gmail.com)
